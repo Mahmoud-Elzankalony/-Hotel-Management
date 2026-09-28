@@ -1,0 +1,6 @@
+{"room_number": 101, "room_type": 1, "price_per_night": 100.0, "status": 1, "max_occupancy": 2, "amenities": ["Wi-Fi", "TV", "Air Conditioner"]}
+{"room_number": 102, "room_type": 2, "price_per_night": 180.0, "status": 1, "max_occupancy": 4, "amenities": ["Wi-Fi", "TV", "Balcony", "Sea View"]}
+{"room_number": 201, "room_type": 3, "price_per_night": 350.0, "status": 1, "max_occupancy": 3, "amenities": ["Wi-Fi", "TV", "Mini Bar", "Jacuzzi"]}
+{"room_number": 202, "room_type": 3, "price_per_night": 150.0, "status": 1, "max_occupancy": 3, "amenities": ["Wi-Fi", "Sea View", "Mini Bar"]}
+{"room_number": 203, "room_type": 3, "price_per_night": 150.0, "status": 1, "max_occupancy": 3, "amenities": ["Wi-Fi", "Sea View", "Mini Bar"]}
+{"room_number": 205, "room_type": 1, "price_per_night": 2000.0, "status": 1, "max_occupancy": 6, "amenities": []}
